@@ -29,6 +29,12 @@ body{
 }
 .btn{
     background-color: $background-light;
+   color: #000;
+   text-decoration: none;
+}
+
+.btn:hover{
+    background-color: $background-dark;
 }
 
 
